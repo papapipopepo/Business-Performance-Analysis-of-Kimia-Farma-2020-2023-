@@ -65,4 +65,6 @@ Key components visualized:
 
 **Ezra Satria Bagas Airlangga**  
 Master’s Student – Electrical Engineering, Telkom University  
-[LinkedIn](https://linkedin.com/in/ezrasatriabagas/)  
+📧 ezra.satria16@gmail.com
+🔗[LinkedIn](https://linkedin.com/in/ezrasatriabagas/)  
+#BigData #LookerStudio #DataAnalytics #GoogleCloud #KimiaFarma #BusinessDashboard #HealthcareAnalytics #SQL #RakaminAcademy
