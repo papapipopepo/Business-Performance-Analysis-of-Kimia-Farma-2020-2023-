@@ -57,7 +57,7 @@ Key components visualized:
 
 ## 📷 Screenshots
 
-![Dashboard Preview](d![Image](https://github.com/user-attachments/assets/ee546720-c423-41f7-9ffb-14ec111d1f04))
+![Dashboard Preview](Dashboard.jpg)
 
 ---
 
