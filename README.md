@@ -64,5 +64,5 @@ Key components visualized:
 ## 👨‍💻 Author
 
 **Ezra Satria Bagas Airlangga**  
-Fast Track Master’s Student – Electrical Engineering, Telkom University  
+Master’s Student – Electrical Engineering, Telkom University  
 [LinkedIn](https://linkedin.com/in/ezrasatriabagas/)  
